@@ -1,0 +1,885 @@
+{
+  "list": [
+    {
+      "bottom": [
+        {
+          "colors": [
+            "yellow",
+            "red"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "yellow",
+            "blue",
+            "red"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "white",
+            "green"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "yellow",
+            "orange",
+            "blue"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "yellow",
+            "orange"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "yellow",
+            "green",
+            "orange"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "white",
+            "blue"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "yellow",
+            "red",
+            "green"
+          ],
+          "shape": "corner"
+        }
+      ],
+      "middle": [
+        {
+          "colors": [
+            "green",
+            "red",
+            "blue"
+          ],
+          "shape": "middle"
+        },
+        {
+          "colors": [
+            "blue",
+            "orange",
+            "green"
+          ],
+          "shape": "middle"
+        }
+      ],
+      "moves": "U,F,U',D',F,D",
+      "name": "Middle Rotate",
+      "top": [
+        {
+          "colors": [
+            "white",
+            "red"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "white",
+            "red",
+            "blue"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "yellow",
+            "green"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "white",
+            "blue",
+            "orange"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "white",
+            "orange"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "white",
+            "orange",
+            "green"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "yellow",
+            "blue"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "white",
+            "green",
+            "red"
+          ],
+          "shape": "corner"
+        }
+      ]
+    },
+    {
+      "_comment": "Top and bottom star at the red triangle. Top moves counter-clockwise, bottom, clockwise.",
+      "bottom": [
+        {
+          "colors": [
+            "yellow",
+            "blue"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "yellow",
+            "orange",
+            "blue"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "yellow",
+            "red"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "yellow",
+            "blue",
+            "red"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "yellow",
+            "orange"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "yellow",
+            "green",
+            "orange"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "yellow",
+            "green"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "yellow",
+            "red",
+            "green"
+          ],
+          "shape": "corner"
+        }
+      ],
+      "middle": [
+        {
+          "colors": [
+            "green",
+            "red",
+            "blue"
+          ],
+          "shape": "middle"
+        },
+        {
+          "colors": [
+            "blue",
+            "orange",
+            "green"
+          ],
+          "shape": "middle"
+        }
+      ],
+      "moves": "F,U'2,F,U2,F,U'2, F,D2,F,U2,D'2,F, D2",
+      "name": "Bottom Corner Swap",
+      "top": [
+        {
+          "colors": [
+            "white",
+            "red"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "white",
+            "red",
+            "blue"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "white",
+            "blue"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "white",
+            "blue",
+            "orange"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "white",
+            "orange"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "white",
+            "orange",
+            "green"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "white",
+            "green"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "white",
+            "green",
+            "red"
+          ],
+          "shape": "corner"
+        }
+      ]
+    },
+    {
+      "_comment": "Top and bottom star at the red triangle. Top moves counter-clockwise, bottom, clockwise.",
+      "bottom": [
+        {
+          "colors": [
+            "yellow",
+            "orange"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "yellow",
+            "green",
+            "orange"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "yellow",
+            "blue"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "yellow",
+            "orange",
+            "blue"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "yellow",
+            "red"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "yellow",
+            "blue",
+            "red"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "yellow",
+            "green"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "yellow",
+            "red",
+            "green"
+          ],
+          "shape": "corner"
+        }
+      ],
+      "middle": [
+        {
+          "colors": [
+            "green",
+            "red",
+            "blue"
+          ],
+          "shape": "middle"
+        },
+        {
+          "colors": [
+            "blue",
+            "orange",
+            "green"
+          ],
+          "shape": "middle"
+        }
+      ],
+      "moves": "F,U4,F,U2,D2, F,U2,D'2,F",
+      "name": "Pair Switches",
+      "top": [
+        {
+          "colors": [
+            "white",
+            "red"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "white",
+            "red",
+            "blue"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "white",
+            "green"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "white",
+            "green",
+            "red"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "white",
+            "orange"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "white",
+            "orange",
+            "green"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "white",
+            "blue"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "white",
+            "blue",
+            "orange"
+          ],
+          "shape": "corner"
+        }
+      ]
+    },
+    {
+      "_comment": "Top and bottom star at the red triangle. Top moves counter-clockwise, bottom, clockwise.",
+      "bottom": [
+        {
+          "colors": [
+            "white",
+            "orange"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "white",
+            "blue",
+            "orange"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "yellow",
+            "blue"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "yellow",
+            "orange",
+            "blue"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "yellow",
+            "orange"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "yellow",
+            "green",
+            "orange"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "white",
+            "green"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "white",
+            "orange",
+            "green"
+          ],
+          "shape": "corner"
+        }
+      ],
+      "middle": [
+        {
+          "colors": [
+            "green",
+            "red",
+            "blue"
+          ],
+          "shape": "middle"
+        },
+        {
+          "colors": [
+            "blue",
+            "orange",
+            "green"
+          ],
+          "shape": "middle"
+        }
+      ],
+      "moves": "F,U4,F,U4,F,U,F,U3",
+      "name": "Side Swap",
+      "top": [
+        {
+          "colors": [
+            "white",
+            "red"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "white",
+            "red",
+            "blue"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "white",
+            "blue"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "yellow",
+            "blue",
+            "red"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "yellow",
+            "red"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "yellow",
+            "red",
+            "green"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "yellow",
+            "green"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "white",
+            "green",
+            "red"
+          ],
+          "shape": "corner"
+        }
+      ]
+    },
+    {
+      "_comment": "Top and bottom star at the red triangle. Top moves counter-clockwise, bottom, clockwise.",
+      "bottom": [
+        {
+          "colors": [
+            "yellow",
+            "red"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "yellow",
+            "blue",
+            "red"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "yellow",
+            "orange"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "yellow",
+            "green",
+            "orange"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "yellow",
+            "green"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "white",
+            "green",
+            "red"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "white",
+            "red"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "yellow",
+            "red",
+            "green"
+          ],
+          "shape": "corner"
+        }
+      ],
+      "middle": [
+        {
+          "colors": [
+            "green",
+            "red",
+            "blue"
+          ],
+          "shape": "middle"
+        },
+        {
+          "colors": [
+            "blue",
+            "orange",
+            "green"
+          ],
+          "shape": "middle"
+        }
+      ],
+      "moves": "U',F,U',D,F,D,U2",
+      "name": "Corner Move",
+      "top": [
+        {
+          "colors": [
+            "white",
+            "green"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "white",
+            "red",
+            "blue"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "white",
+            "blue"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "white",
+            "blue",
+            "orange"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "yellow",
+            "blue"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "yellow",
+            "orange",
+            "blue"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "white",
+            "orange"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "white",
+            "orange",
+            "green"
+          ],
+          "shape": "corner"
+        }
+      ]
+    },
+    {
+      "_comment": "Top and bottom star at the red triangle. Top moves counter-clockwise, bottom, clockwise.",
+      "bottom": [
+        {
+          "colors": [
+            "yellow",
+            "red"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "yellow",
+            "blue",
+            "red"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "yellow",
+            "blue"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "white",
+            "red",
+            "blue"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "yellow",
+            "orange"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "white",
+            "orange",
+            "green"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "yellow",
+            "green"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "white",
+            "blue",
+            "orange"
+          ],
+          "shape": "corner"
+        }
+      ],
+      "middle": [
+        {
+          "colors": [
+            "green",
+            "red",
+            "blue"
+          ],
+          "shape": "middle"
+        },
+        {
+          "colors": [
+            "blue",
+            "orange",
+            "green"
+          ],
+          "shape": "middle"
+        }
+      ],
+      "moves": "F,U2,D2,F,U,D,\nF,U2,D'2,F,U'2,D2,\nF,U',D',F,U2,D'2,\nF,U4,F,U4",
+      "name": "Tricorner Rotate",
+      "top": [
+        {
+          "colors": [
+            "white",
+            "red"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "yellow",
+            "orange",
+            "blue"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "white",
+            "blue"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "yellow",
+            "red",
+            "green"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "white",
+            "orange"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "yellow",
+            "green",
+            "orange"
+          ],
+          "shape": "corner"
+        },
+        {
+          "colors": [
+            "white",
+            "green"
+          ],
+          "shape": "triangle"
+        },
+        {
+          "colors": [
+            "white",
+            "green",
+            "red"
+          ],
+          "shape": "corner"
+        }
+      ]
+    }
+  ]
+}

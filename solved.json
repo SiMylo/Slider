@@ -1,0 +1,80 @@
+{
+  "top": [
+    {
+      "shape": "triangle",
+      "colors": ["white","red"]
+    },
+    {
+      "shape": "corner",
+      "colors": ["white","red","blue"]
+    },
+    {
+      "shape": "triangle",
+      "colors": ["white","blue"]
+    },
+    {
+      "shape": "corner",
+      "colors": ["white","blue","orange"]
+    },
+    {
+      "shape": "triangle",
+      "colors": ["white","orange"]
+    },
+    {
+      "shape": "corner",
+      "colors": ["white","orange","green"]
+    },
+    {
+      "shape": "triangle",
+      "colors": ["white","green"]
+    },
+    {
+      "shape": "corner",
+      "colors": ["white","green","red"]
+    }
+    ],
+  "middle": [
+    {
+      "shape": "middle",
+      "colors": ["green","red","blue"]
+    },
+    {
+      "shape": "middle",
+      "colors": ["blue","orange","green"]
+    }
+  ],
+	"bottom": [
+    {
+      "shape": "triangle",
+      "colors": ["yellow","red"]
+    },
+    {
+      "shape": "corner",
+      "colors": ["yellow","blue","red"]
+    },
+    {
+      "shape": "triangle",
+      "colors": ["yellow","blue"]
+    },
+    {
+      "shape": "corner",
+      "colors": ["yellow","orange","blue"]
+    },
+    {
+      "shape": "triangle",
+      "colors": ["yellow","orange"]
+    },
+    {
+      "shape": "corner",
+      "colors": ["yellow","green","orange"]
+    },
+    {
+      "shape": "triangle",
+      "colors": ["yellow","green"]
+    },
+    {
+      "shape": "corner",
+      "colors": ["yellow","red","green"]
+    }
+  ]
+}

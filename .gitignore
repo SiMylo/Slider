@@ -1,3 +1,7 @@
+startValue.json
+endValue.json
+consolidated.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
